@@ -1,4 +1,4 @@
-**# ESERCITAZIONE DI GRUPPO `"Ordinare una pizza"`
+# ESERCITAZIONE DI GRUPPO `"Ordinare una pizza"`
 
 ## Sessione secondaria di zoom numero 4: esercizio 6
 
